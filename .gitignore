@@ -1,0 +1,13 @@
+# Build artifacts
+*.o
+*.a
+
+# Editors
+*.swp
+*~
+.idea/
+.vscode/
+
+# NOTE: the prebuilt kernel blobs (Image.lz4), the device tree blob, the dtbo
+# image and the kernel modules are intentionally tracked: this repository is
+# the distribution point for them.

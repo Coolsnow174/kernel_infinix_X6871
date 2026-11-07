@@ -1,0 +1,71 @@
+/odm_dlkm/lib/modules/tc_tc30_algo.ko: /odm_dlkm/lib/modules/tc_charger_framework.ko /odm_dlkm/lib/modules/tc_tcpc.ko /odm_dlkm/lib/modules/tcpc_class.ko /odm_dlkm/lib/modules/tc_misc_intf.ko /odm_dlkm/lib/modules/tc_adapter_class.ko /odm_dlkm/lib/modules/tc_charger_class.ko /odm_dlkm/lib/modules/tc_algorithm_class.ko /odm_dlkm/lib/modules/tc_common_class.ko /odm_dlkm/lib/modules/pd_dbg_info.ko
+/odm_dlkm/lib/modules/tc_pd_algo.ko: /odm_dlkm/lib/modules/tc_charger_framework.ko /odm_dlkm/lib/modules/tc_tcpc.ko /odm_dlkm/lib/modules/tcpc_class.ko /odm_dlkm/lib/modules/tc_misc_intf.ko /odm_dlkm/lib/modules/tc_adapter_class.ko /odm_dlkm/lib/modules/tc_charger_class.ko /odm_dlkm/lib/modules/tc_algorithm_class.ko /odm_dlkm/lib/modules/tc_common_class.ko /odm_dlkm/lib/modules/pd_dbg_info.ko
+/odm_dlkm/lib/modules/tran_richtap_haptic_hv.ko:
+/odm_dlkm/lib/modules/tran_perf_util.ko:
+/odm_dlkm/lib/modules/leds-aw22xxx.ko: /odm_dlkm/lib/modules/tran-led-core.ko
+/odm_dlkm/lib/modules/tc_tcpc.ko: /odm_dlkm/lib/modules/tcpc_class.ko /odm_dlkm/lib/modules/tc_misc_intf.ko /odm_dlkm/lib/modules/tc_adapter_class.ko /odm_dlkm/lib/modules/tc_charger_class.ko /odm_dlkm/lib/modules/tc_algorithm_class.ko /odm_dlkm/lib/modules/tc_common_class.ko /odm_dlkm/lib/modules/pd_dbg_info.ko
+/odm_dlkm/lib/modules/tc_otg_ctrl.ko: /odm_dlkm/lib/modules/tc_tcpc.ko /odm_dlkm/lib/modules/tcpc_class.ko /odm_dlkm/lib/modules/tc_misc_intf.ko /odm_dlkm/lib/modules/tc_adapter_class.ko /odm_dlkm/lib/modules/tc_charger_class.ko /odm_dlkm/lib/modules/tc_algorithm_class.ko /odm_dlkm/lib/modules/tc_common_class.ko /odm_dlkm/lib/modules/pd_dbg_info.ko
+/odm_dlkm/lib/modules/mainaf.ko:
+/odm_dlkm/lib/modules/tc_tfcp_ta.ko: /odm_dlkm/lib/modules/tc_ta_class.ko /odm_dlkm/lib/modules/tc_misc_intf.ko /odm_dlkm/lib/modules/tc_adapter_class.ko /odm_dlkm/lib/modules/tc_charger_class.ko /odm_dlkm/lib/modules/tc_algorithm_class.ko /odm_dlkm/lib/modules/tc_common_class.ko
+/odm_dlkm/lib/modules/tc_hl7139a.ko: /odm_dlkm/lib/modules/tc_charger_class.ko
+/odm_dlkm/lib/modules/tc_adapter_class.ko:
+/odm_dlkm/lib/modules/tc_audio.ko: /odm_dlkm/lib/modules/tc_common_class.ko
+/odm_dlkm/lib/modules/tc_charger_class.ko:
+/odm_dlkm/lib/modules/tran_zram.ko:
+/odm_dlkm/lib/modules/gt9916_common.ko: /odm_dlkm/lib/modules/adaptive-ts.ko
+/odm_dlkm/lib/modules/tran_key_bigdata.ko:
+/odm_dlkm/lib/modules/focaltech_ft3683g.ko: /odm_dlkm/lib/modules/adaptive-ts.ko
+/odm_dlkm/lib/modules/tran_usb_ctrl.ko: /odm_dlkm/lib/modules/tc_ta_class.ko /odm_dlkm/lib/modules/tc_charger_framework.ko /odm_dlkm/lib/modules/tc_tcpc.ko /odm_dlkm/lib/modules/tcpc_class.ko /odm_dlkm/lib/modules/tc_misc_intf.ko /odm_dlkm/lib/modules/tc_adapter_class.ko /odm_dlkm/lib/modules/tc_charger_class.ko /odm_dlkm/lib/modules/tc_algorithm_class.ko /odm_dlkm/lib/modules/tc_common_class.ko /odm_dlkm/lib/modules/pd_dbg_info.ko
+/odm_dlkm/lib/modules/tc_port_corrosion_prevention.ko: /odm_dlkm/lib/modules/tc_tcpc.ko /odm_dlkm/lib/modules/tcpc_class.ko /odm_dlkm/lib/modules/tc_misc_intf.ko /odm_dlkm/lib/modules/tc_adapter_class.ko /odm_dlkm/lib/modules/tc_charger_class.ko /odm_dlkm/lib/modules/tc_algorithm_class.ko /odm_dlkm/lib/modules/tc_common_class.ko /odm_dlkm/lib/modules/pd_dbg_info.ko
+/odm_dlkm/lib/modules/hiber.ko:
+/odm_dlkm/lib/modules/aw36515.ko: /odm_dlkm/lib/modules/flashlight.ko /odm_dlkm/lib/modules/tc_misc_intf.ko /odm_dlkm/lib/modules/tc_adapter_class.ko /odm_dlkm/lib/modules/tc_charger_class.ko /odm_dlkm/lib/modules/tc_algorithm_class.ko /odm_dlkm/lib/modules/tc_common_class.ko
+/odm_dlkm/lib/modules/tc_lcd_notify.ko: /odm_dlkm/lib/modules/tc_common_class.ko
+/odm_dlkm/lib/modules/mtk-kpd.ko:
+/odm_dlkm/lib/modules/tc_auto_test.ko: /odm_dlkm/lib/modules/tc_misc_intf.ko /odm_dlkm/lib/modules/tc_adapter_class.ko /odm_dlkm/lib/modules/tc_charger_class.ko /odm_dlkm/lib/modules/tc_algorithm_class.ko /odm_dlkm/lib/modules/tc_common_class.ko
+/odm_dlkm/lib/modules/tran_extcon_usb.ko: /odm_dlkm/lib/modules/tc_tcpc.ko /odm_dlkm/lib/modules/tcpc_class.ko /odm_dlkm/lib/modules/tc_misc_intf.ko /odm_dlkm/lib/modules/tc_adapter_class.ko /odm_dlkm/lib/modules/tc_charger_class.ko /odm_dlkm/lib/modules/tc_algorithm_class.ko /odm_dlkm/lib/modules/tc_common_class.ko /odm_dlkm/lib/modules/pd_dbg_info.ko
+/odm_dlkm/lib/modules/tc_common_class.ko:
+/odm_dlkm/lib/modules/mt6375-battery.ko: /odm_dlkm/lib/modules/tc_misc_intf.ko /odm_dlkm/lib/modules/tc_adapter_class.ko /odm_dlkm/lib/modules/tc_charger_class.ko /odm_dlkm/lib/modules/tc_algorithm_class.ko /odm_dlkm/lib/modules/tc_common_class.ko
+/odm_dlkm/lib/modules/tc_pd_adapter.ko: /odm_dlkm/lib/modules/tc_tcpc.ko /odm_dlkm/lib/modules/tcpc_class.ko /odm_dlkm/lib/modules/tc_misc_intf.ko /odm_dlkm/lib/modules/tc_adapter_class.ko /odm_dlkm/lib/modules/tc_charger_class.ko /odm_dlkm/lib/modules/tc_algorithm_class.ko /odm_dlkm/lib/modules/tc_common_class.ko /odm_dlkm/lib/modules/pd_dbg_info.ko
+/odm_dlkm/lib/modules/imgsensor.ko:
+/odm_dlkm/lib/modules/subaf.ko:
+/odm_dlkm/lib/modules/pd_dbg_info.ko:
+/odm_dlkm/lib/modules/tc_water_detect.ko: /odm_dlkm/lib/modules/tcpc_class.ko /odm_dlkm/lib/modules/tc_misc_intf.ko /odm_dlkm/lib/modules/tc_adapter_class.ko /odm_dlkm/lib/modules/tc_charger_class.ko /odm_dlkm/lib/modules/tc_algorithm_class.ko /odm_dlkm/lib/modules/tc_common_class.ko /odm_dlkm/lib/modules/pd_dbg_info.ko
+/odm_dlkm/lib/modules/tc_trancare.ko: /odm_dlkm/lib/modules/tc_charger_framework.ko /odm_dlkm/lib/modules/tc_tcpc.ko /odm_dlkm/lib/modules/tcpc_class.ko /odm_dlkm/lib/modules/tc_misc_intf.ko /odm_dlkm/lib/modules/tc_adapter_class.ko /odm_dlkm/lib/modules/tc_charger_class.ko /odm_dlkm/lib/modules/tc_algorithm_class.ko /odm_dlkm/lib/modules/tc_common_class.ko /odm_dlkm/lib/modules/pd_dbg_info.ko
+/odm_dlkm/lib/modules/tc_pmic.ko: /odm_dlkm/lib/modules/tc_common_class.ko
+/odm_dlkm/lib/modules/tc_chg_type_det.ko: /odm_dlkm/lib/modules/tc_tcpc.ko /odm_dlkm/lib/modules/tcpc_class.ko /odm_dlkm/lib/modules/tc_misc_intf.ko /odm_dlkm/lib/modules/tc_adapter_class.ko /odm_dlkm/lib/modules/tc_charger_class.ko /odm_dlkm/lib/modules/tc_algorithm_class.ko /odm_dlkm/lib/modules/tc_common_class.ko /odm_dlkm/lib/modules/pd_dbg_info.ko
+/odm_dlkm/lib/modules/tc_hvdcp20_algo.ko: /odm_dlkm/lib/modules/tc_charger_framework.ko /odm_dlkm/lib/modules/tc_tcpc.ko /odm_dlkm/lib/modules/tcpc_class.ko /odm_dlkm/lib/modules/tc_misc_intf.ko /odm_dlkm/lib/modules/tc_adapter_class.ko /odm_dlkm/lib/modules/tc_charger_class.ko /odm_dlkm/lib/modules/tc_algorithm_class.ko /odm_dlkm/lib/modules/tc_common_class.ko /odm_dlkm/lib/modules/pd_dbg_info.ko
+/odm_dlkm/lib/modules/nfc_i2c.ko:
+/odm_dlkm/lib/modules/tran_health_sched.ko: /odm_dlkm/lib/modules/trans_sched.ko
+/odm_dlkm/lib/modules/tran_charge_transfer.ko: /odm_dlkm/lib/modules/tc_misc_intf.ko /odm_dlkm/lib/modules/tc_adapter_class.ko /odm_dlkm/lib/modules/tc_charger_class.ko /odm_dlkm/lib/modules/tc_algorithm_class.ko /odm_dlkm/lib/modules/tc_common_class.ko
+/odm_dlkm/lib/modules/tc_pe20_algo.ko: /odm_dlkm/lib/modules/tc_charger_framework.ko /odm_dlkm/lib/modules/tc_tcpc.ko /odm_dlkm/lib/modules/tcpc_class.ko /odm_dlkm/lib/modules/tc_misc_intf.ko /odm_dlkm/lib/modules/tc_adapter_class.ko /odm_dlkm/lib/modules/tc_charger_class.ko /odm_dlkm/lib/modules/tc_algorithm_class.ko /odm_dlkm/lib/modules/tc_common_class.ko /odm_dlkm/lib/modules/pd_dbg_info.ko
+/odm_dlkm/lib/modules/tc_pid_chg_algo.ko: /odm_dlkm/lib/modules/tc_charger_framework.ko /odm_dlkm/lib/modules/tc_tcpc.ko /odm_dlkm/lib/modules/tcpc_class.ko /odm_dlkm/lib/modules/tc_misc_intf.ko /odm_dlkm/lib/modules/tc_adapter_class.ko /odm_dlkm/lib/modules/tc_charger_class.ko /odm_dlkm/lib/modules/tc_algorithm_class.ko /odm_dlkm/lib/modules/tc_common_class.ko /odm_dlkm/lib/modules/pd_dbg_info.ko
+/odm_dlkm/lib/modules/tc_algorithm_class.ko:
+/odm_dlkm/lib/modules/adaptive-ts.ko:
+/odm_dlkm/lib/modules/dw9784ois.ko:
+/odm_dlkm/lib/modules/tcpc_mt6375.ko: /odm_dlkm/lib/modules/tcpc_class.ko /odm_dlkm/lib/modules/tc_misc_intf.ko /odm_dlkm/lib/modules/tc_adapter_class.ko /odm_dlkm/lib/modules/tc_charger_class.ko /odm_dlkm/lib/modules/tc_algorithm_class.ko /odm_dlkm/lib/modules/tc_common_class.ko /odm_dlkm/lib/modules/pd_dbg_info.ko
+/odm_dlkm/lib/modules/tc_misc_intf.ko: /odm_dlkm/lib/modules/tc_adapter_class.ko /odm_dlkm/lib/modules/tc_charger_class.ko /odm_dlkm/lib/modules/tc_algorithm_class.ko /odm_dlkm/lib/modules/tc_common_class.ko
+/odm_dlkm/lib/modules/tcpc_class.ko: /odm_dlkm/lib/modules/tc_misc_intf.ko /odm_dlkm/lib/modules/tc_adapter_class.ko /odm_dlkm/lib/modules/tc_charger_class.ko /odm_dlkm/lib/modules/tc_algorithm_class.ko /odm_dlkm/lib/modules/tc_common_class.ko /odm_dlkm/lib/modules/pd_dbg_info.ko
+/odm_dlkm/lib/modules/pages_prefilter.ko:
+/odm_dlkm/lib/modules/mt6375-charger.ko: /odm_dlkm/lib/modules/tc_charger_class.ko
+/odm_dlkm/lib/modules/tran-led-core.ko:
+/odm_dlkm/lib/modules/tran_mm_collect.ko: /odm_dlkm/lib/modules/tran_zram.ko
+/odm_dlkm/lib/modules/tc_temp_forecast.ko: /odm_dlkm/lib/modules/tc_misc_intf.ko /odm_dlkm/lib/modules/tc_adapter_class.ko /odm_dlkm/lib/modules/tc_charger_class.ko /odm_dlkm/lib/modules/tc_algorithm_class.ko /odm_dlkm/lib/modules/tc_common_class.ko
+/odm_dlkm/lib/modules/pca_tfcp_ta.ko: /odm_dlkm/lib/modules/tc_ta_class.ko /odm_dlkm/lib/modules/tc_misc_intf.ko /odm_dlkm/lib/modules/tc_adapter_class.ko /odm_dlkm/lib/modules/tc_charger_class.ko /odm_dlkm/lib/modules/tc_algorithm_class.ko /odm_dlkm/lib/modules/tc_common_class.ko
+/odm_dlkm/lib/modules/tc_ta_class.ko:
+/odm_dlkm/lib/modules/main3af.ko:
+/odm_dlkm/lib/modules/tc_gauge.ko: /odm_dlkm/lib/modules/tc_auto_test.ko /odm_dlkm/lib/modules/tc_misc_intf.ko /odm_dlkm/lib/modules/tc_adapter_class.ko /odm_dlkm/lib/modules/tc_charger_class.ko /odm_dlkm/lib/modules/tc_algorithm_class.ko /odm_dlkm/lib/modules/tc_common_class.ko
+/odm_dlkm/lib/modules/tc_phy_insert_det.ko: /odm_dlkm/lib/modules/tc_misc_intf.ko /odm_dlkm/lib/modules/tc_adapter_class.ko /odm_dlkm/lib/modules/tc_charger_class.ko /odm_dlkm/lib/modules/tc_algorithm_class.ko /odm_dlkm/lib/modules/tc_common_class.ko
+/odm_dlkm/lib/modules/chipsemi_chsc5xxx_old.ko: /odm_dlkm/lib/modules/adaptive-ts.ko
+/odm_dlkm/lib/modules/flashlight.ko: /odm_dlkm/lib/modules/tc_misc_intf.ko /odm_dlkm/lib/modules/tc_adapter_class.ko /odm_dlkm/lib/modules/tc_charger_class.ko /odm_dlkm/lib/modules/tc_algorithm_class.ko /odm_dlkm/lib/modules/tc_common_class.ko
+/odm_dlkm/lib/modules/tran_ldo.ko:
+/odm_dlkm/lib/modules/rt_pd_manager.ko: /odm_dlkm/lib/modules/tcpc_class.ko /odm_dlkm/lib/modules/tc_misc_intf.ko /odm_dlkm/lib/modules/tc_adapter_class.ko /odm_dlkm/lib/modules/tc_charger_class.ko /odm_dlkm/lib/modules/tc_algorithm_class.ko /odm_dlkm/lib/modules/tc_common_class.ko /odm_dlkm/lib/modules/pd_dbg_info.ko
+/odm_dlkm/lib/modules/tc_pep50.ko: /odm_dlkm/lib/modules/tc_charger_framework.ko /odm_dlkm/lib/modules/tc_tcpc.ko /odm_dlkm/lib/modules/tcpc_class.ko /odm_dlkm/lib/modules/tc_misc_intf.ko /odm_dlkm/lib/modules/tc_adapter_class.ko /odm_dlkm/lib/modules/tc_charger_class.ko /odm_dlkm/lib/modules/tc_algorithm_class.ko /odm_dlkm/lib/modules/tc_common_class.ko /odm_dlkm/lib/modules/pd_dbg_info.ko
+/odm_dlkm/lib/modules/main2af.ko: /odm_dlkm/lib/modules/dw9784ois.ko
+/odm_dlkm/lib/modules/tc_charger_framework.ko: /odm_dlkm/lib/modules/tc_tcpc.ko /odm_dlkm/lib/modules/tcpc_class.ko /odm_dlkm/lib/modules/tc_misc_intf.ko /odm_dlkm/lib/modules/tc_adapter_class.ko /odm_dlkm/lib/modules/tc_charger_class.ko /odm_dlkm/lib/modules/tc_algorithm_class.ko /odm_dlkm/lib/modules/tc_common_class.ko /odm_dlkm/lib/modules/pd_dbg_info.ko
+/odm_dlkm/lib/modules/tcpci_late_sync.ko: /odm_dlkm/lib/modules/tcpc_class.ko /odm_dlkm/lib/modules/tc_misc_intf.ko /odm_dlkm/lib/modules/tc_adapter_class.ko /odm_dlkm/lib/modules/tc_charger_class.ko /odm_dlkm/lib/modules/tc_algorithm_class.ko /odm_dlkm/lib/modules/tc_common_class.ko /odm_dlkm/lib/modules/pd_dbg_info.ko
+/odm_dlkm/lib/modules/trans_sched.ko:
+/odm_dlkm/lib/modules/priority_allocate.ko:
+/odm_dlkm/lib/modules/tran_audio_typec.ko: /odm_dlkm/lib/modules/tcpc_class.ko /odm_dlkm/lib/modules/tc_misc_intf.ko /odm_dlkm/lib/modules/tc_adapter_class.ko /odm_dlkm/lib/modules/tc_charger_class.ko /odm_dlkm/lib/modules/tc_algorithm_class.ko /odm_dlkm/lib/modules/tc_common_class.ko /odm_dlkm/lib/modules/pd_dbg_info.ko
+/odm_dlkm/lib/modules/mtk_battery_manager.ko: /odm_dlkm/lib/modules/tc_misc_intf.ko /odm_dlkm/lib/modules/tc_adapter_class.ko /odm_dlkm/lib/modules/tc_charger_class.ko /odm_dlkm/lib/modules/tc_algorithm_class.ko /odm_dlkm/lib/modules/tc_common_class.ko
+/odm_dlkm/lib/modules/tc_ambient_temp_det.ko: /odm_dlkm/lib/modules/tc_charger_framework.ko /odm_dlkm/lib/modules/tc_tcpc.ko /odm_dlkm/lib/modules/tcpc_class.ko /odm_dlkm/lib/modules/tc_misc_intf.ko /odm_dlkm/lib/modules/tc_adapter_class.ko /odm_dlkm/lib/modules/tc_charger_class.ko /odm_dlkm/lib/modules/tc_algorithm_class.ko /odm_dlkm/lib/modules/tc_common_class.ko /odm_dlkm/lib/modules/pd_dbg_info.ko
+/odm_dlkm/lib/modules/sub2af.ko:
