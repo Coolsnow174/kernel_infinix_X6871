@@ -1,0 +1,37 @@
+{
+  "boot_header_version": 4,
+  "kernel_image": "Image.lz4",
+  "kernel_size": 18885902,
+  "kernel_banner": "Linux version 6.12.38-android16-5-gb575a0b6e647-ab14355190-4k (kleaf@build-host) (Android (14043575, +pgo, +bolt, +lto, +mlgo, based on r536225) clang version 19.0.1 (https://android.googlesource.com/toolchain/llvm-project b3a530ec6537146650e42be89f1089e9a3588460), LLD 19.0.1) #1 SMP PREEMPT Wed Oct 29 06:56:12 UTC 2025",
+  "dtb_size": 337252,
+  "modules": {
+    "ramdisk": {
+      "count": 237,
+      "vermagic": [
+        "6.12.38-android16-5-gcc51d883045d-4k SMP preempt mod_unload modversions aarch64"
+      ],
+      "missing_load": []
+    },
+    "vendor_dlkm": {
+      "count": 219,
+      "vermagic": [
+        "6.12.38-android16-5-gcc51d883045d-4k SMP preempt mod_unload modversions aarch64"
+      ],
+      "missing_load": []
+    },
+    "odm_dlkm": {
+      "count": 71,
+      "vermagic": [
+        "6.12.38-android16-5-gcc51d883045d-4k SMP preempt mod_unload modversions aarch64"
+      ],
+      "missing_load": []
+    },
+    "system_dlkm": {
+      "count": 81,
+      "vermagic": [
+        "6.12.38-android16-5-gb575a0b6e647-ab14355190-4k SMP preempt mod_unload modversions aarch64"
+      ],
+      "missing_load": []
+    }
+  }
+}
